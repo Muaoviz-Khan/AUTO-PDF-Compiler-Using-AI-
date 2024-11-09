@@ -1,0 +1,6 @@
+# Ignore all files in folder1 and folder2, but keep the folders
+static/output/*
+!static/output/.gitkeep
+
+uploads/*
+!uploads/.gitkeep
